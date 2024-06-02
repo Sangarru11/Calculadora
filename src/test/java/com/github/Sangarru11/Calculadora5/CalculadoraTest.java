@@ -79,7 +79,6 @@ class CalculadoraTest {
         assertEquals(2, miCalculadora.raizCuadrada(4));
         assertEquals(1, miCalculadora.raizCuadrada(1));
         assertEquals(0, miCalculadora.raizCuadrada(0));
-        assertEquals(3, miCalculadora.raizCuadrada(-9));
     }
 
     @Test
