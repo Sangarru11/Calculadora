@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.github.Sangarru11.Calculadora5</groupId>
-    <artifactId>Calculadora5</artifactId>
+    <artifactId>calculadora5</artifactId>
     <version>1.1</version>
 
     <properties>
