@@ -3,7 +3,7 @@ package com.github.Sangarru11.Calculadora5;
 public class Calculadora {
 
     double suma(double a, double b) {
-        return a + b;
+        return a - b;
     }
 
     double resta(double minuendo, double sustraendo) {
